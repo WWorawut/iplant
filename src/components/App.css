@@ -1,0 +1,231 @@
+.App {
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.style{
+  font-size: 40px;
+    color:#000000;
+    text-align: center;
+    margin: 30px 0px;;
+    font-family: Kanit;
+}
+.style2{
+  padding: 10px;
+  font-size: 16px;
+    color:#000000;
+    text-align: center;
+    margin: 30px 0px;;
+    font-family: Sitka Small;
+}
+.card-title{
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  color: #4B8E4B;
+}
+.masthead{
+  min-height: 50rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image:url('/bg01.svg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Sitka Small;
+}
+.d-flex {
+  display: -ms-flexbox!important;
+  display: flex!important;
+}
+.mb-1{
+  margin-bottom:.25rem!important;
+}
+.text-center{
+  text-align:center!important;
+}
+.my-auto {
+  margin-bottom: auto!important;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.logo{
+  display: block;
+  margin: 0 auto;
+  height:46%;
+}
+
+.logo img{
+  width: 53%;
+  height: auto;
+}
+.my-4{
+  margin-bottom: 1.5rem!important;
+  font-family: Kanit;
+}
+.list-group{
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-family: Kanit;
+    color: darkblue;
+}
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+.card-footer {
+  padding: .75rem 1.25rem;
+  background-color: rgba(0,0,0,.03);
+  border-top: 1px solid rgba(0,0,0,.125);
+}
+.card-footer:last-child {
+  border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px);
+}
+.h-100 {
+  height: 100%!important;
+}
+.card-footer:last-child {
+  border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px);
+}
+.footer-widgets {
+  padding: 200px 0 50px;
+  
+}
+.footer {
+  background: #222;
+}
+.widget {
+  margin-bottom: 60px;
+  font-size: .8125rem;
+}
+.widget.widget-title {
+  margin-bottom: 24px;
+}
+.textwidget{
+  box-sizing: border-box;
+}
+.article-card-small-desktop{
+  width:100%
+}
+ .card {
+  font-family: kanit;
+  height: 34.01vh;
+}
+.card-image {
+  display: block;
+  position: relative;
+}
+.card-content {
+  height: 10vh;
+  padding: 2vh;
+}
+.media {
+  align-items: flex-start;
+  display: flex;
+  text-align: left;
+}
+.thumbnail {
+  opacity: 0.70;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.line {
+  margin-bottom: 5px;
+}
+.right {
+  float: right;
+  border-bottom: 2px solid #4B8E4B;
+}
+.btn-success {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+  position: relative;
+  font-family:Sukhumvit;
+}
+.btn-align{
+  float: right;
+}
+.price{
+  color:#1EB7C9;
+}
+.map{
+  flex:right;
+}
+.navbar {
+  position: relative;
+  min-height: 50px;
+}
+.b{
+  color: white;
+  font-size: 16px;
+  font-family:kanit;
+}
+.b2{
+  color: white;
+  font-size: 25px;
+  font-family:kanit;
+}
+.v{
+  color: white;
+  font-size: 35px;
+  font-family:kanit;
+}
+.b3{
+  color: black;
+  font-size: 25px;
+  font-family:kanit;
+}
+.masthead2{
+  min-height: 50rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image:url('/cover3.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Sitka Small;
+}
+.TT2{
+  color: #233756;
+  font-size: 35px;
+  font-family:kanit;
+}
+ul.a {
+  list-style-type: circle;
+}
+.featurette-heading{
+  font-family:kanit;
+  font-size:50px;
+}

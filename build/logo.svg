@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="834 -129 203.266 91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        font-size: 59px;
+        font-family: Mistral;
+      }
+
+      .cls-3 {
+        fill: #65c700;
+      }
+
+      .cls-4 {
+        fill: #007b2b;
+      }
+    </style>
+  </defs>
+  <g id="Group_53" data-name="Group 53" transform="translate(834 -129)">
+    <g id="Group_51" data-name="Group 51" transform="translate(38 20.953)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="144.504" height="48.168" transform="translate(20.762 6.914)"/>
+      <text id="Plant" class="cls-2" transform="translate(20.762 45.047)"><tspan x="0" y="0">Plant</tspan></text>
+      <path id="Path_1" data-name="Path 1" d="M3.558,66.067A2.658,2.658,0,0,1,.9,63.409V39.658A2.624,2.624,0,0,1,3.558,37a2.658,2.658,0,0,1,2.658,2.658V63.409A2.7,2.7,0,0,1,3.558,66.067Z" transform="translate(-0.402 -20.065)"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="2.934" cy="2.934" r="2.934" transform="translate(0 7.689)"/>
+    </g>
+    <g id="Group_52" data-name="Group 52" transform="translate(166 31.02)">
+      <path id="Path_49" data-name="Path 49" class="cls-3" d="M0,25.687S5.788-11.571,15.675,3.621,0,25.687,0,25.687Z" transform="translate(0 0)"/>
+      <path id="Path_50" data-name="Path 50" class="cls-4" d="M10.149,4a19.318,19.318,0,0,1-.844,3.979c-.362,1.326-.844,2.532-1.326,3.858-.482,1.206-1.085,2.412-1.688,3.617A15.866,15.866,0,0,1,4,18.952a19.318,19.318,0,0,1,.844-3.979A36.237,36.237,0,0,1,6.17,11.114C6.653,9.908,7.256,8.7,7.858,7.5A34.924,34.924,0,0,1,10.149,4Z" transform="translate(0.823 0.827)"/>
+    </g>
+    <rect id="Rectangle_54" data-name="Rectangle 54" class="cls-1" width="203" height="91"/>
+  </g>
+</svg>
